@@ -102,6 +102,20 @@
     padding: 1% 15%;
 }
 
+.gallery-head{
+    text-align: center;
+    padding-top: 2cm;
+}
+.gallery-row{
+    padding: 1.5cm 3cm 2cm;
+}
+.gallery-dis{
+    font-size:x-large;
+    text-align: center;
+    font-weight: 500;
+}
+
+
 #footer{
     background-color: #212529;
     text-align: center;
