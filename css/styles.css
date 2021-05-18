@@ -1,0 +1,122 @@
+.profileImage{
+    border-radius: 50%;
+    
+}
+
+#introduction{
+    text-align: center;
+    background-color: #322d40;
+    padding: 7% 15%;
+}
+
+.intro-heading{
+    color: wheat;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 4rem;
+}
+
+.intro-para{
+    color: turquoise;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Newsreader', serif;
+    font-size: 1.5rem;
+}
+#education{
+    padding-top: 2cm;
+}
+.edu-heading{
+    text-align: center;
+    padding-top: 3% ;
+    
+    font-weight: bold;
+}
+
+.edu-content{
+    padding: 7% 15%;
+}
+
+.edu-inner-content{
+    margin-top: 0%;
+    color: #322d40 ;
+}
+#workExperience{
+    background-color: #322d40;
+    color: wheat;
+    padding-top: 2cm;
+}
+.wrk-exp-head{
+    text-align: center;
+}
+.wrk-exp{
+    padding: 2% 15%;
+}
+.wrk-exp-inner-head{
+    font-size: 0.8cm;
+}
+.projects-head{
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+#projects{
+    padding: 3% 4%;
+    padding-top: 2cm;
+}
+
+.card{
+    padding: 1% 1% 1% 1%;
+    margin-bottom: 2cm;
+}
+.card-header{
+    background-color: #322d40;
+}
+.card-body{
+    text-align: center;
+    font-weight: 500;
+}
+.projects-inner-head{
+    font-size: 1rem;
+    color: wheat;
+    text-align: center;
+}
+
+#technologies{
+    background-color: #322d40;
+    color: wheat;
+    padding-bottom: 2cm;
+}
+.progress-bar{
+    padding-left: 15%;
+}
+.technologies-head{
+    padding-top: 2cm;
+    text-align: center;
+    padding-bottom: 2%;
+
+}
+.tech-row{
+    padding: 1% 15%;
+}
+
+#footer{
+    background-color: #212529;
+    text-align: center;
+    color: wheat;
+}
+.footer-icon{
+    padding-right: 0.5cm;
+    padding-left: 0.2cm;
+}
+.row-inner-footer{
+    padding-bottom: 2%;
+    text-align: center;
+    font-size: 0.2cm;
+}
+.row-footer{
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+}
+.para-footer{
+    margin-top: 1.5cm;
+}
+
