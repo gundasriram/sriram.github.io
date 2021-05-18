@@ -84,13 +84,15 @@
     text-align: center;
 }
 
+
+
 #technologies{
     background-color: #322d40;
     color: wheat;
     padding-bottom: 2cm;
 }
 .progress-bar{
-    padding-left: 15%;
+    padding-left: 7%;
 }
 .technologies-head{
     padding-top: 2cm;
