@@ -105,11 +105,13 @@
 }
 #gallery{
     text-align: center;
+    padding-bottom: 2cm;
 }
 
 .gallery-head{
     text-align: center;
     padding-top: 2cm;
+    padding-bottom: 2cm;
 }
 .gallery-row{
     padding-top: 1.4cm;
@@ -128,6 +130,16 @@
 }
 
 
+#contact{
+    text-align: center;
+    padding-top: 2cm;
+    background-color: #322d40;
+    padding-bottom: 2cm;
+}
+.contact-head{
+    color: wheat;
+    padding-bottom: 1cm;
+}
 #footer{
     background-color: #212529;
     text-align: center;
